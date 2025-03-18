@@ -10,4 +10,4 @@ Demonstrates boundary shift detection.
 
 Requirements
 .NET 7 or newer SDK (tested with .NET 9).
-Windows
+Platform: Windows
